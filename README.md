@@ -1,2 +1,5 @@
-# instagram-landing-page
-My Custom instagram landing page
+
+# Instagram Landing Page
+
+My custom instagram landing page made for the Santander Bootcamp Challenge.
+
